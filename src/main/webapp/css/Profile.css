@@ -1,0 +1,46 @@
+body{
+background:#0f172a;
+font-family:Poppins;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.profile-card{
+
+background:#1e293b;
+
+padding:40px;
+
+width:500px;
+
+border-radius:20px;
+
+color:white;
+}
+
+.profile-card h1{
+margin-bottom:20px;
+}
+
+.profile-card p{
+margin-bottom:15px;
+}
+
+.logout-btn{
+
+display:inline-block;
+
+margin-top:20px;
+
+padding:12px 20px;
+
+background:#ff6b35;
+
+color:white;
+
+text-decoration:none;
+
+border-radius:8px;
+}

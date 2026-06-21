@@ -1,0 +1,16 @@
+body{
+background:#0f172a;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-family:Poppins;
+}
+
+.contact-card{
+background:#1e293b;
+padding:40px;
+border-radius:20px;
+color:white;
+width:500px;
+}
