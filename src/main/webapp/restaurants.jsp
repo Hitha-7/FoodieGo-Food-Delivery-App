@@ -52,7 +52,7 @@
 
 
 <div class="page-header">
-    <h2>🍽 Restaurants Near You</h2>
+    <h2>   Restaurants Near You</h2>
 
    
 </div>
