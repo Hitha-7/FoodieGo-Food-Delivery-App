@@ -67,19 +67,6 @@ Register
 → Checkout
 
 
-## Screenshots
-
-### Landing Page
-![Landing Page](screenShots/landingPage.png)
-
-### Restaurants Page
-![Restaurants](screenShots/restaurantsPage.png)
-
-### Menu Page
-![Menu](screenShots/menuPage.png)
-
-### Cart Page
-![Cart](screenShots/cartPage.png)
 
 ### Order History
 ![Orders](screenShots/orderHistory.png)
