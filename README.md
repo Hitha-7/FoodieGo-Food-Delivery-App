@@ -70,18 +70,18 @@ Register
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landingPpage.png)
+![Landing Page](screenShots/landingPage.png)
 
 ### Restaurants Page
-![Restaurants](screenshots/restaurantsPage.png)
+![Restaurants](screenShots/restaurantsPage.png)
 
 ### Menu Page
-![Menu](screenshots/menuPage.png)
+![Menu](screenShots/menuPage.png)
 
 ### Cart Page
-![Cart](screenshots/cartPage.png)
+![Cart](screenShots/cartPage.png)
 
 ### Order History
-![Orders](screenshots/orderHistory.png)
+![Orders](screenShots/orderHistory.png)
 → Place Order
 → Order History
